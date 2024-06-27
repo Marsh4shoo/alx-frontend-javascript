@@ -1,20 +1,12 @@
-me": "0x02-ES6_classes",
+{
+  "name": "0x02-ES6_classes",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "0x02. ES6 classes By Marshal Zvinoira",
+  "main": ".eslintrc.js",
   "scripts": {
-    "test": "jest",
-    "lint": "eslint .",
-    "full-test": "npm run lint && npm run test"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
-    "@babel/preset-env": "^7.12.1",
-    "eslint": "^7.11.0",
-    "jest": "^26.6.3"
-  },
-  "dependencies": {}
+  "license": "ISC"
 }
