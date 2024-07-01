@@ -1,0 +1,14 @@
+// 11-createEmployeesObject.js
+export default function createEmployeesObject(departmentName, employees) {
+    return {
+        [departmentName]: employees,
+    };
+}
+
+// 12-createReportObject.js
+export default function createReportObject(employees) {
+    return {
+        allEmployees: employees,
+    };
+}
+
