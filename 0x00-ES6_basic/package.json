@@ -1,7 +1,7 @@
 {
   "name": "alx-frontend-javascript",
   "version": "1.0.0",
-  "description": "",
+  "description": "6 Basics Frontend By Marshal Zvinoira",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -13,6 +13,11 @@
     "@babel/core": "^7.11.6",
     "@babel/preset-env": "^7.11.5",
     "eslint": "^7.10.0",
+    "express": "^4.19.2",
     "jest": "^26.4.2"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": []
 }
